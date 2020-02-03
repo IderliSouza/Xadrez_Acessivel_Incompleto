@@ -1,0 +1,55 @@
+Elementos/Tema do Jogo
+Devem existir 6 personagens.
+Personagens são animais engraçados (porco-espinho curioso, suricato perigoso, panda dorminhoco, ...).
+Personagem secreto a ser habilitado pelo jogador: bugio gaudério.
+Um "mestre dos magos" pode narrar a história do jogo.
+Existe um narrador para descrever o cenário (áudio descrição).
+Inimigo dos jogadores: tag alt em branco.
+Inimigo dos jogadores: relógio.
+Inimigo dos jogadores: nerd padrão.
+Personagens emitem sons engraçados e não tem voz.
+Personagens falam em uma língua estranha (como Simlish do The Sims).
+
+Mecânicas
+Reduzir penalidades do tabuleiro original.
+Áudio para as perguntas do jogo.
+Deve haver uma opção para ver a pergunta em Libras.
+O dado começa a rolar/sacudir automaticamente e o jogador escolhe quando ele vai parar.
+As perguntas CRAPTCHA possuem 4 alternativas de resposta.
+Competição ou cooperação no jogo?
+O jogador tem a opção de ajudar outro jogador em sua rodada em vez de avançar (e ganha uma recompensa por isso): rebocar amigo!
+O jogador rebocado pode recusar a ajuda.
+Os jogadores devem mover o personagem pelo tabuleiro depois da quantidade de casas a andar ter sido definida pelo dado.
+Certas casas do tabuleiro mudam temporariamente o desenho dos personagens para alguma atividade (na casa "pausa para café" o personagem aparece tomando café, ...).
+Sistema de extras e colecionáveis com biografia de cada personagem como recompensa para o jogador.
+Abrir novos personagens como recompensa para o jogador.
+Desafios de algumas casa do tabuleiro que envolvem lidar com conteúdo não acessível (navegar por uma página não acessível, ...).
+O jogo deve ser acessível pelo teclado.
+
+Estética
+Tabuleiro deve ser mais atrativo que o original.
+Músicas mais intensas para perguntas mais difíceis.
+Uma imagem é mostrada para cada casa diferente do tabuleiro que o jogador para (imagem de uma xícara de café para a casa "pausa para café",...).
+Quando dois ou mais animais dividem uma mesma casa do tabuleiro, deve haver uma interação especial (briga, brincadeira, tomar chá, ...).
+Ambientação do tabuleiro baseada em uma página web mal feita.
+Ar de comédia nos textos e desenhos.
+Desenhos de personagens e cenários no estilo cartoon.
+Imagens de 16 bits em pixel art.
+Evitar grande variação de cores (tons) nos desenhos para ter uma compressão de imagens maior.
+Músicas do jogo no estilo cartoon.
+
+Tecnologia
+Usar HTML5 e JavaScript.
+Vídeos devem ser em qualidade boa suficiente para ser claros, mas ainda assim devem ser pequenos.
+Usar GIF em vez de vídeo.
+A qualidade do áudio deve ser boa, mas os arquivos devem ser pequenos.
+Usar imagens GIF e PNG para aproveitar efeito de transparência (e tamanho pequeno).
+Se for 3D, usar WebGL.
+Tem que ser web.
+Usar Garage Band para músicas.
+Usar Fruity Loops para músicas.
+Usar Sketch Book Pro para imagens.
+
+Narrativa
+Animais programadores são sugados por uma buraco negro para dentro do jogo.
+Cartas CRAPTCHA levam o jogador para outro ambiente e ele deve resolver o desafio para sair.
